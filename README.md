@@ -3,7 +3,7 @@ img2midi
 
 You too can be a synesthete!
 With this python script You can create simple melodies, or cacophonies, from images.
-Yes, it means You can actualy **head** the images. 
+Yes, it means You can actualy **hear** the images. 
 
 
 Requirements
