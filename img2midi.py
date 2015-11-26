@@ -64,7 +64,7 @@ def convert(img_file, midi_file, play):
 
   if play:
     try:
-      play_midi('midi.mid')
+      play_midi(midi_file)
     except KeyboardInterrupt:
       pygame.mixer.music.fadeout(1000)
       pygame.mixer.music.stop()
