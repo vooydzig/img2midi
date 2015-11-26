@@ -1,3 +1,6 @@
 .idea/*
 TODO.lst
 *.mid
+setup.py
+dist/*
+build/*
